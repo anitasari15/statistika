@@ -1,3 +1,2 @@
 # statistika
-Bab 1
-Untitled0.ipynb
+Bab 1 [Untitled0.ipynb]
